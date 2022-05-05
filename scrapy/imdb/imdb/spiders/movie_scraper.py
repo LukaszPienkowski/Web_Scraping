@@ -12,7 +12,7 @@ class LinksSpider(scrapy.Spider):
     allowed_domains = ['https://www.imdb.com/']
     try:
         with open("link_list.csv", "rt") as f:
-            start_urls = [url.strip() for url in f.readlines()][1:]
+            start_urls = [url.strip() for url in f.readlines()][1:102]
     except:
         start_urls = []
 
@@ -22,7 +22,7 @@ class LinksSpider(scrapy.Spider):
         title_xpath = '//h1/text()'
         score_xpath = '//div[@data-testid = "hero-rating-bar__aggregate-rating__score"]/span/text()'
         popularity_xpath = '//div[@data-testid = "hero-rating-bar__popularity__score"]/text()'
-        genres_xpath = '//div[@data-testid = "genres"]/a/span/text()'
+        genres_xpath = '//div[@data-testid = "genres"]//text()'
 
         p['title'] = response.xpath(title_xpath).get()
         p['IMDb_rating'] = response.xpath(score_xpath).get()

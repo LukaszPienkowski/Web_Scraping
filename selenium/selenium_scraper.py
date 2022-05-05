@@ -1,21 +1,22 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.edge.service import Service
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 import time
 import pandas as pd
 
-driver = webdriver.Edge(service=Service(EdgeChromiumDriverManager().install()))
+driver = webdriver.Edge(EdgeChromiumDriverManager().install())
 url = 'https://www.imdb.com/chart/top/?ref_=nv_mv_250'
 driver.get(url)
-links_list = [x.get_attribute('href') for x in driver.find_elements(By.XPATH, '//td[@class = "titleColumn"]/a')]
+links_list = [x.get_attribute('href') for x in driver.find_elements(By.XPATH, '//td[@class = "titleColumn"]/a')][:100]
 
 titles = list()
 ratings = list()
 popularity_scores = list()
 genres = list()
 
-for link in links_list:
+counter = 1
+for link in links_list[:3]:
+    print(f'Scraping {counter} page')
     driver.get(link)
     time.sleep(2)
 
@@ -35,11 +36,11 @@ for link in links_list:
         popularity_scores.append('Not rated')
 
     try:
-        genres.append([x.text for x in driver.find_elements(By.XPATH, '//div[@data-testid = "genres"]/a/span')])
+        genres.append(driver.find_element(By.XPATH, '//div[@data-testid = "genres"]').text.split('\n'))
     except:
         genres.append('')
 
-    i = i + 1
+    counter += 1
 
 driver.quit()
 
