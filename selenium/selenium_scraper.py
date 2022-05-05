@@ -1,3 +1,4 @@
+from __future__ import generator_stop
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver import FirefoxOptions
@@ -5,8 +6,8 @@ import time
 import pandas as pd
 
 
-Linux = True
-#Linux = False
+#Linux = True
+Linux = False
 
 if Linux == True:
     opts = FirefoxOptions()
@@ -44,21 +45,18 @@ for link in links_list:
     try:
         #ratings.append(driver.find_elements(By.XPATH, '//div[@data-testid = "hero-rating-bar__aggregate-rating__score"]/span')[2].text)
         ratings.append(driver.find_element(By.XPATH, '//*[@id="__next"]/main/div/section[1]/section/div[3]/section/section/div[1]/div[2]/div/div[1]/a/div/div/div[2]/div[1]/span[1]').text)
-        print(ratings)
     except:
         ratings.append('')
 
     try:
         #popularity_scores.append(driver.find_elements(By.XPATH, '//div[@data-testid = "hero-rating-bar__popularity__score"]')[1].text)
         popularity_scores.append(driver.find_element(By.XPATH, '//*[@id="__next"]/main/div/section[1]/section/div[3]/section/section/div[1]/div[2]/div/div[3]/a/div/div/div[2]/div[1]').text)
-        print(popularity_scores)
     except:
         popularity_scores.append('Not rated')
 
     try:
         #genres.append([x.text for x in driver.find_elements(By.XPATH, '//div[@data-testid = "genres"]/a/span')])
-        genres.append([x.text for x in driver.find_elements(By.XPATH, '//*[@id="__next"]/main/div/section[1]/section/div[3]/section/section/div[3]/div[2]/div[1]/div[1]/div')])
-        print(genres)
+        genres.append([x.text for x in driver.find_elements(By.XPATH, '//*[@id="__next"]/main/div/section[1]/section/div[3]/section/section/div[3]/div[2]/div[1]/div[1]/div[1]')])
     except:
         genres.append('')
 
@@ -66,6 +64,7 @@ for link in links_list:
 
 driver.quit()
 
+genres = [[w.replace("\n", ',') for w in x] for x in genres]
 df = pd.DataFrame({'Title': titles, 'IMDb rating': ratings, 'Popularity': popularity_scores, 'Genre': genres})
 print(df)
 

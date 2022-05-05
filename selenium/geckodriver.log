@@ -483,3 +483,880 @@ DevTools listening on ws://localhost:41917/devtools/browser/30377ae8-7cdc-4be8-b
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1651749225309	geckodriver	INFO	Listening on 127.0.0.1:34323
+1651749225314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47033" "-no-remote" "-profile" "/tmp/rust_mozprofileFW6cgm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651749225562	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFW6cgm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47033/devtools/browser/062fcac2-e2a0-4760-9d24-772a716f0359
+1651749226960	Marionette	INFO	Listening on port 37387
+1651749227127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 5181, MediaDecoderStateMachine #1] WARNING: 7f8602848c50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5181, MediaDecoderStateMachine #1] WARNING: Decoder=7f861361a700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5181, MediaDecoderStateMachine #1] WARNING: 7f8602936c50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5181, MediaDecoderStateMachine #1] WARNING: Decoder=7f86090caa00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5181, MediaDecoderStateMachine #1] WARNING: 7f860bea4200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5181, MediaDecoderStateMachine #1] WARNING: Decoder=7f860c16bf00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651749260111	geckodriver	INFO	Listening on 127.0.0.1:54389
+1651749260116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35687" "-no-remote" "-profile" "/tmp/rust_mozprofileaqTIkC"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651749260366	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaqTIkC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35687/devtools/browser/b38cc8cd-56f2-4b4c-98ad-c6ce1a0ea4c1
+1651749261779	Marionette	INFO	Listening on port 45793
+1651749261884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 5467, MediaDecoderStateMachine #1] WARNING: 7fe85e2e92f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5467, MediaDecoderStateMachine #1] WARNING: Decoder=7fe863df1600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5467, MediaDecoderStateMachine #1] WARNING: 7fe85e9ee3e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5467, MediaDecoderStateMachine #1] WARNING: Decoder=7fe863df1600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5467, MediaDecoderStateMachine #1] WARNING: 7fe85a4626b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5467, MediaDecoderStateMachine #1] WARNING: Decoder=7fe864958c00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5467, MediaDecoderStateMachine #1] WARNING: 7fe861be9880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5467, MediaDecoderStateMachine #1] WARNING: Decoder=7fe864077d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5467, MediaDecoderStateMachine #1] WARNING: 7fe85e091100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5467, MediaDecoderStateMachine #1] WARNING: Decoder=7fe864077d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651749352900	geckodriver	INFO	Listening on 127.0.0.1:47731
+1651749352904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38823" "-no-remote" "-profile" "/tmp/rust_mozprofileejZB0W"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651749353153	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileejZB0W/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38823/devtools/browser/057572e9-8231-40e4-9281-d76f2b3ffd44
+1651749354523	Marionette	INFO	Listening on port 41639
+1651749354652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Child 5762, MediaDecoderStateMachine #1] WARNING: 7f82448cab50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5762, MediaDecoderStateMachine #1] WARNING: Decoder=7f824e44dd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5762, MediaDecoderStateMachine #1] WARNING: 7f8244874d40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5762, MediaDecoderStateMachine #1] WARNING: Decoder=7f824e44dd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5762, MediaDecoderStateMachine #1] WARNING: 7f8244657020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5762, MediaDecoderStateMachine #1] WARNING: Decoder=7f824e7e3100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5762, MediaDecoderStateMachine #1] WARNING: 7f8244880880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5762, MediaDecoderStateMachine #1] WARNING: Decoder=7f824e7e3100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5762, MediaDecoderStateMachine #1] WARNING: 7f824b4745c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5762, MediaDecoderStateMachine #1] WARNING: Decoder=7f824b4d4900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 5762, MediaDecoderStateMachine #1] WARNING: 7f824460c890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 5762, MediaDecoderStateMachine #1] WARNING: Decoder=7f824b4d4900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651749390194	geckodriver	INFO	Listening on 127.0.0.1:45955
+1651749390198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "57669" "-no-remote" "-profile" "/tmp/rust_mozprofileAHqOFf"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651749390457	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAHqOFf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57669/devtools/browser/4e72d932-8a4a-472d-9a5f-7de442322600
+1651749391864	Marionette	INFO	Listening on port 46359
+1651749391994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 6066, MediaDecoderStateMachine #1] WARNING: 7f9ae90d5a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6066, MediaDecoderStateMachine #1] WARNING: Decoder=7f9ae7bc5a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6066, MediaDecoderStateMachine #1] WARNING: 7f9aeea23c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6066, MediaDecoderStateMachine #1] WARNING: Decoder=7f9aeeafa600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651749415139	geckodriver	INFO	Listening on 127.0.0.1:47211
+1651749415162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "37645" "-no-remote" "-profile" "/tmp/rust_mozprofilezBiFqL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651749415424	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezBiFqL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37645/devtools/browser/ecdc92eb-c105-4121-ab39-4ec49fcd9f99
+1651749416875	Marionette	INFO	Listening on port 41641
+1651749416980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 6338, MediaDecoderStateMachine #1] WARNING: 7f4179b94a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6338, MediaDecoderStateMachine #1] WARNING: Decoder=7f418bb12400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6338, MediaDecoderStateMachine #1] WARNING: 7f4179b1eb50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6338, MediaDecoderStateMachine #1] WARNING: Decoder=7f4183b5c400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651749468292	geckodriver	INFO	Listening on 127.0.0.1:51527
+1651749468296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42543" "-no-remote" "-profile" "/tmp/rust_mozprofileOcygja"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651749468547	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOcygja/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42543/devtools/browser/34396925-b0bf-4895-80c0-9ab717ba4d91
+1651749469986	Marionette	INFO	Listening on port 38585
+1651749470099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb578cc40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1e5500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5867e20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1e5500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbdd77a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe69b800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb577e5c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc669bd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb577e4d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc669bd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb6851f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe5d1d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbba73c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbb626b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5787a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed1e100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb57872f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc669ea00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe2ce020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbbe5f700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbba73010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe2d3600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbba73010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe2d3600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb913c50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc124e700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbad32e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe6e3200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbddcde30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf267600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5788100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbedced00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb620d40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe6e4700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb6bb020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf21a400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc313020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf3f2100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbacea7a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbacbe200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc6617700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cba230d40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc6617a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbdb9fc40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc6617a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb4fed2f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf267600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbe5f1f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc1a62800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbab6a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc1251700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbacbf4c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf559600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbeff1f20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf559600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbba73010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc12e2100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5885d40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc6619900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbacead40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc12e3900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbacbe980 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc12e5a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbef47b50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc12e5a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb4fed6b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cc6617a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5736c50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe9e6c00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbba3bd30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe7ed700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe6493d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe68ec00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb579c890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbb9dbd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5788c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe111f00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb577e2f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe111f00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb63a880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe68fb00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb63a880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe68fb00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb6bb3e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe537900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbdc2980 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe275300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbdc2c50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe275300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb4fee1f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe69a900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb4fedc50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe6e1400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb4fed7a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe6e1400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb58671f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe9bb400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbe5f3d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe6e3500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efe1f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe99d100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbab73d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe99d100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc032c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed1f400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc032c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed1f400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc3a76a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe9bd500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb620e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe99ce00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe6487a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe99ce00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbe5e4d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbbd0da00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe76dc40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbbd0da00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbef475b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbedd7900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5867d30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbedd7900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe629980 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed10c00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbacebf10 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed10c00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb577f010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf55bd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efeb50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf55bd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb58863d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbacb1400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e7d1f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe277100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5788100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbde78400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5ba60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe536400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5871970 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe69a900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5b1f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe784100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe5f6a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe785f00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbf0ba70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe99aa00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe53d5b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbb0c7000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb57d64c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe5b5600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efed30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe5b5600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc313d40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe690100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc313d40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe690100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb9271a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe699700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe1b1200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe699700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8cb1890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe69a900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe1fe6a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe69a900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb64ab5b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbbd94b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbe1b1e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe538500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5ae30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbe6e3200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc35ed40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed6d800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5aa70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbedcea00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbf9e6a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbedcea00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5a7a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbedd8200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc313e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbedd8200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbc59a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbedcbd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb9272010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed21800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbacbe3e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed21800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5787020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed4ea00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbc5ae20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed6de00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8cb14d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbed6de00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5867d30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf15e700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc314c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf15e700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efe790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1a5900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5b880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf152700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5ae30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1a6e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb8fae5c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1a6e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb8ef1e20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1a7700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb92712f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1a7700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efe1f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf309e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb991a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf309e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efd200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbbf17300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb8ad890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf209e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb6214c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf308c00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb620020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1e6d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb5870110 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1e6d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb21a8d30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1e5500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbdc3e20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf309500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5b100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf309500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efe2e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf20a400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efdc50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf558400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8efee20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf209e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5a980 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf308300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb620e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf1e6700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbf9ed30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf296a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbb6204d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf297300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbea1010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf33ba00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb57376a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf33ba00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb57d6880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf33b700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8e5ba60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf55a200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc3a71f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf55a200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cb89566a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf3f0300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbbf9d020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf3f0300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1cbc287e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf4fdd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 6620, MediaDecoderStateMachine #1] WARNING: 7f1ca8ca2e20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 6620, MediaDecoderStateMachine #1] WARNING: Decoder=7f1cbf559000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+1651749974557	Marionette	INFO	Stopped listening on port 38585
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1651749987290	geckodriver	INFO	Listening on 127.0.0.1:53531
+1651749987294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49919" "-no-remote" "-profile" "/tmp/rust_mozprofileAYAT5D"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651749987560	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAYAT5D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49919/devtools/browser/70e8f16a-b300-401f-b31e-e5f548366e70
+1651749988957	Marionette	INFO	Listening on port 38731
+1651749989045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 8652, MediaDecoderStateMachine #1] WARNING: 7f039586a5b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8652, MediaDecoderStateMachine #1] WARNING: Decoder=7f039b74af00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8652, MediaDecoderStateMachine #1] WARNING: 7f0395797970 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8652, MediaDecoderStateMachine #1] WARNING: Decoder=7f039b74af00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8652, MediaDecoderStateMachine #1] WARNING: 7f03957c45b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8652, MediaDecoderStateMachine #1] WARNING: Decoder=7f039c5b4a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8652, MediaDecoderStateMachine #1] WARNING: 7f039b735100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8652, MediaDecoderStateMachine #1] WARNING: Decoder=7f039c5b4a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8652, MediaDecoderStateMachine #1] WARNING: 7f039b7802f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8652, MediaDecoderStateMachine #1] WARNING: Decoder=7f0399923900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651750022825	geckodriver	INFO	Listening on 127.0.0.1:35669
+1651750022830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "46261" "-no-remote" "-profile" "/tmp/rust_mozprofileAskJk0"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651750023098	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAskJk0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46261/devtools/browser/073ab3e4-5185-4d15-8460-1f1650de414b
+1651750024450	Marionette	INFO	Listening on port 33583
+1651750024602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea4ed3d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67fc01a700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea6096a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f1b62e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea795a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f1b62e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea6a2970 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea6a2790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f3e9b900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea65fd40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4f4c400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f4d232f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4f4c400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea7c5a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4a33200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ed61dd40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67fc01b600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f2004e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67fc01ed00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1ef03d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67fc01ed00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f03f33d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f46c4400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67edad02f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6c4bd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1b30c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f448e100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea6d2970 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f479ee00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea48de30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f479ee00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea786c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4f4c100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1d4bb50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4f4c100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f22ea7a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67fc015100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ed6f8010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4a32000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f47444c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4a32000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1dc1a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f1fedc00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f3b937a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f1fedc00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea48db60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4aed400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea6096a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4aed400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1fc1890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6cdf400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f394d970 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6cdf400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1fc15c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f74d4400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1f2c880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4e36a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ef63aa70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4e36a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f2209f20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6c4bd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f220a790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6c4bd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1d4ad40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f74d4a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea609790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f74d4a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1885880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6ce1b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1d2f970 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6ce1b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1451a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6c77400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea48de30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67fc01a400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f20e8b50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6c4b400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1eeeb50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6c78300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1eeeb50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f6c78300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f4606b50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67fc014b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea63fa70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f20c0900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f20e8100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f20c0900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1d2f010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67ef627800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67e9fea880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67d9db5e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1dc65b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67d9db5800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1d2e7a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67d9db5800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f4605890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f3993300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ebd54880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1dc0a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4defd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67e9feab50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67ed41e400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ef1fab60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f0f18a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea48ec40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f207d400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67d9dd5a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f207d400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67e9fe9d40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f45d5400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1f094d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f45d5400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1dc02f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4596000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f46055c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4596000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f220a790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4552a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f140f020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f4552a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67e6184c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f45d6000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67e9fe95c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f45e9400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ed6f7e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f45e9400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1b04790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f463d500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f22eba60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f463d500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67eda0c5b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f1b44000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67eda0bb60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f479fa00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f1b03f20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f14e9b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67eda09c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f14e9b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ea785f20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f0f95100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67ebd544c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f0f95100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f10de4c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67f3c89600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 8943, MediaDecoderStateMachine #1] WARNING: 7f67f03f2d40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 8943, MediaDecoderStateMachine #1] WARNING: Decoder=7f67eda5f100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651750302346	geckodriver	INFO	Listening on 127.0.0.1:57869
+1651750302351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "57621" "-no-remote" "-profile" "/tmp/rust_mozprofile8CibV8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651750302621	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8CibV8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57621/devtools/browser/ce721ea1-c131-4571-9f10-9a19f628fd65
+1651750304115	Marionette	INFO	Listening on port 42885
+1651750304209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 9990, MediaDecoderStateMachine #1] WARNING: 7fb27a254980 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 9990, MediaDecoderStateMachine #1] WARNING: Decoder=7fb2838c3b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 9990, MediaDecoderStateMachine #1] WARNING: 7fb282d0d020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 9990, MediaDecoderStateMachine #1] WARNING: Decoder=7fb2838c3b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 9990, MediaDecoderStateMachine #1] WARNING: 7fb27a2812f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 9990, MediaDecoderStateMachine #1] WARNING: Decoder=7fb282f68500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 9990, MediaDecoderStateMachine #1] WARNING: 7fb27a2e85c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 9990, MediaDecoderStateMachine #1] WARNING: Decoder=7fb2834d0900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 9990, MediaDecoderStateMachine #1] WARNING: 7fb27a2916a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 9990, MediaDecoderStateMachine #1] WARNING: Decoder=7fb2835d8100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651750625073	geckodriver	INFO	Listening on 127.0.0.1:36027
+1651750625077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "60869" "-no-remote" "-profile" "/tmp/rust_mozprofiley96WDi"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+[GFX1-]: No GPUs detected via PCI
+1651750625354	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley96WDi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60869/devtools/browser/f819925a-964f-48e1-8015-f53615d40bf8
+1651750626962	Marionette	INFO	Listening on port 42585
+1651750626996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd83bc4c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadde579400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1cbc020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0b81000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade09a74c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0d34f00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0f496b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade201eb00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde5566a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1f84a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde5566a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1f84a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8473a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadda6ec600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1616c50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadda6ec600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd9b5d5b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadde6e8500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade16e86a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadde6e8500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd849ec50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade156e100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd84615b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7faddc205e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0dc1f20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade205d000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddf0cbf20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0be7d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde657200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade931f000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde630c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade931f000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde6e56a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadd9a3d000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde77d970 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadd9a3d000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcdb1f200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1562e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade13a0020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadcac1c400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadf4b987a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadcac1c400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd9afb2e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7faddc26e400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd9afb2e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7faddc26e400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1383d30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0badd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1370790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0badd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd83d2980 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0e0a700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd849ef20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0d9d400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadddb07010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0be6200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1f71890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0be6200 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd83d2e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0f09900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcac59020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1446a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8472200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1446a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade08cbe30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7faddc26ba00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd838aa60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13c5f00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade14bc200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade16dcd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd98cde20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade16dcd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcd0ba6b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ccb300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcdb1fb60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1e64900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade15892f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1e64900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadc6648a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadc32fb700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcad17b60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadc32fb700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcad18c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7faddebab600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddc403890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadd8cda700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadca81ad40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7faddc26b400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde630a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade08af400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0d51c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadded52d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd98cdc40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fadded52d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd98cc7a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7faddb4d6a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade153f5c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0d9dd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcdb59200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0be7a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade13a1790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0be4700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1589e30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0be4700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade141cd30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0e07400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1589890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0e07400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadc6649970 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0d9ef00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadc6649a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13b5700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddc4d5c50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0e13c00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0f5d4c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13b5400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0e24980 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13b5400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd83e2f10 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0f09300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade096ac50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13c5600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadca81b790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13c5600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade096a4d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13b5700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1cbd1f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13b5700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde62fe30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13b7500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcac594d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade157a400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadddb857a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1659e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadddb062f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade168b300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd849fd30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1658300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8498c50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade157a400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadca81a5c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade165a400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadca81ba60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade168c500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadc66491f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade168c500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade13a11f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1865400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddec324d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1865700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0832d30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade18ae700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddefe9100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddf0e5f10 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade168bf00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8c5db60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1867800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0e253d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1867800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd82dbe20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade183ad00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadc66492e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade16daf00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde5635c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ad0b00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadcd0efb50 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ee5900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadc2a40010 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ee4a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1370e20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1c29e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadda599880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1c29e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddf0e5790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade20b9d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadda5996a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade3fd6400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd9afb4c0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade9312a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd9afb5b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade9312a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8c5ec40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade4761800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd83e2e20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade3f4d300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddeca7c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade21bf700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd849e3e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ccb300 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8c5de30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade47d5600 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd849e020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade930e400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8499880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade0be7700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0fdaf20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade21bfd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd98cd2e0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade21bfd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8499880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade3fd6700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde781100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade3fd6700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddc234790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade9312100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade13a1e20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade20bc700 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddefaed30 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade21bfd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadc6648a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade47d5c00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadc2a40100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade21c1e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd83d3880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade21c1e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddeb93100 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ee5c00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade1589b60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade47d7d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade09c2a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade9314e00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadca81a6b0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade931c500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde7fb790 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade931c500 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadca8fa200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1c27a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddf165c40 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1c27a00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd849f880 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ccb000 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd849e890 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ee7d00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd896c2f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1ee7100 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddebcd3d0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade3fd4900 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd82d5a60 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade930ed00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd82d4a70 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13b8400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7faddebcc020 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade13b8400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd82d8200 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade1c27400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadde5ce6a0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade21c1800 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fade0e0b2f0 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade20b9400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8499e20 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade20b9400 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+[Child 10293, MediaDecoderStateMachine #1] WARNING: 7fadd8498110 OpenCubeb() failed to init cubeb: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/AudioStream.cpp:286
+[Child 10293, MediaDecoderStateMachine #1] WARNING: Decoder=7fade21bfd00 [OnMediaSinkAudioError]: file /build/firefox-gifbvm/firefox-99.0+build2/dom/media/MediaDecoderStateMachine.cpp:4027
+1651751175945	Marionette	INFO	Stopped listening on port 42585
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
