@@ -1,19 +1,24 @@
 from urllib import request as re
 from bs4 import BeautifulSoup as BS
 import pandas as pd
+import time
 
 url = 'https://www.imdb.com/chart/top/?ref_=nv_mv_250'
 html = re.urlopen(url)
 bs = BS(html.read(), 'html.parser')
 bs_links = bs.find_all('td', {'class' : 'titleColumn'})
 links = ['https://www.imdb.com' + tag.a['href'] for tag in bs_links]
+links = links[:100]
 
 titles = list()
 ratings = list()
 popularity_scores = list()
 genres = list()
 
+start = time.time() 
+
 counter = 1
+
 for i in links:
     print(f'Scraping {counter} page')
     html = re.urlopen(i)
@@ -25,7 +30,7 @@ for i in links:
         titles.append('')
 
     try:
-        ratings.append(bs.find('div', {'data-testid': 'hero-rating-bar__aggregate-rating__score'}).text)
+        ratings.append((bs.find('div', {'data-testid': 'hero-rating-bar__aggregate-rating__score'}).text)[:3])
     except:
         ratings.append('')
 
@@ -39,6 +44,10 @@ for i in links:
     except:
         genres.append('')
 
+    counter += 1
 
 df = pd.DataFrame({'Title': titles, 'IMDb rating': ratings, 'Popularity': popularity_scores, 'Genre': genres})
 print(df)
+
+end = time.time()
+print("Elapsed time: ", end - start)
