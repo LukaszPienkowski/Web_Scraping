@@ -3,22 +3,29 @@ from bs4 import BeautifulSoup as BS
 import pandas as pd
 import time
 
+limit_100_pages = True
+#limit_100_pages = False
+
+## Scrapping pages of top100 movies rated in IMDB using BeautifulSoup package
 url = 'https://www.imdb.com/chart/top/?ref_=nv_mv_250'
 html = re.urlopen(url)
 bs = BS(html.read(), 'html.parser')
 bs_links = bs.find_all('td', {'class' : 'titleColumn'})
-links = ['https://www.imdb.com' + tag.a['href'] for tag in bs_links]
-links = links[:100]
+if limit_100_pages:
+    links = ['https://www.imdb.com' + tag.a['href'] for tag in bs_links][:100]
+else:
+    links = ['https://www.imdb.com' + tag.a['href'] for tag in bs_links]
 
+## Empty lists for movies data
 titles = list()
 ratings = list()
 popularity_scores = list()
 genres = list()
 
 start = time.time() 
-
 counter = 1
 
+## Scraping selected data from each page
 for i in links:
     print(f'Scraping {counter} page')
     html = re.urlopen(i)
@@ -46,6 +53,7 @@ for i in links:
 
     counter += 1
 
+## Output as a Data Frame
 df = pd.DataFrame({'Title': titles, 'IMDb rating': ratings, 'Popularity': popularity_scores, 'Genre': genres})
 print(df)
 

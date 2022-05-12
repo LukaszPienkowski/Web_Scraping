@@ -1,10 +1,11 @@
 import scrapy
 
+## Scraping links to movies to list
 class Link(scrapy.Item):
     link = scrapy.Field()
 
-class LinkListsSpider(scrapy.Spider):
-    name = 'scraper'
+class LinkListSpider(scrapy.Spider):
+    name = 'link_list'
     allowed_domains = ['https://www.imdb.com/']
     start_urls = ['https://www.imdb.com/chart/top/?ref_=nv_mv_250']
 
